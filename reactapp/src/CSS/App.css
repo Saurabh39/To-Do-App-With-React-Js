@@ -1,0 +1,29 @@
+.app {
+    background: #1d1b1b;
+    height: 100vh;
+    padding: 30px;
+  }
+  
+  .todo-list {
+    background: #ccc2c2af;
+    border-radius: 4px;
+    max-width: 400px;
+    padding: 5px;
+    color: rgb(247, 244, 240);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+    
+  }
+  
+  .todo {
+    align-items: center;
+    background: rgba(10, 10, 10, 0.808);
+    border-radius: 3px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.15);
+    display: flex;
+    font-size: 10px;
+    justify-content: space-between;
+    margin-bottom: 6px;
+    padding: 3px 10px;
+    font-size: small;
+  }
